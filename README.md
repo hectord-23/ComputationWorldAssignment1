@@ -1,3 +1,3 @@
-# Tutorial
+# Assignment 1
 
-This is my tutorial repository.
+To move ball left press left-arrow key, to move right press right-arrow key, and jump/kick press spacebar.
